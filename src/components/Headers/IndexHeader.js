@@ -1,22 +1,3 @@
-/*!
-
-=========================================================
-* Paper Kit React - v1.2.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
-
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
-/*eslint-disable*/
 import React from "react";
 import Typical from "react-typical";
 
@@ -61,7 +42,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Make your mark with a Free Bootstrap 4 (Reactstrap) UI Kit!
+              Welcome to the <b>future</b> of decentralized autonomous communities.
             </h2>
           </Container>
         </div>
@@ -71,19 +52,6 @@ function IndexHeader() {
             backgroundImage: "url(" + require("assets/img/clouds.png") + ")",
           }}
         />
-        <h6 className="category category-absolute">
-          Designed and coded by{" "}
-          <a
-            href="https://www.creative-tim.com?ref=pkr-index-page"
-            target="_blank"
-          >
-            <img
-              alt="..."
-              className="creative-tim-logo"
-              src={require("assets/img/creative-tim-white-slim2.png")}
-            />
-          </a>
-        </h6>
       </div>
     </>
   );
