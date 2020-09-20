@@ -71,7 +71,7 @@ function IndexNavbar() {
             target="_blank"
             title="Coded by Creative Tim"
           >
-            Paper Kit React
+            ADSactly.org
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -111,17 +111,6 @@ function IndexNavbar() {
               >
                 <i className="fa fa-facebook-square" />
                 <p className="d-lg-none">Facebook</p>
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
-                target="_blank"
-                title="Follow us on Instagram"
-              >
-                <i className="fa fa-instagram" />
-                <p className="d-lg-none">Instagram</p>
               </NavLink>
             </NavItem>
             <NavItem>
