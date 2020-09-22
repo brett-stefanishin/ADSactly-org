@@ -23,12 +23,12 @@ function IndexHeader() {
               <h1>
                   <Typical
                     steps={ 
-                      ['ADSactly.world', 2500,
-                       'ADSactly.uno', 2500, 
-                       'ADSactly.community', 2500,
+                      ['ADSactly.org', 2500,
+                       'ADSactly.world', 2500, 
+                       'ADSactly.uno', 2500,
                        'ADSactly.dao', 2500,
                        'ADSactly.universe', 2500,
-                       'ADSactly.org', 2500 ]
+                       'ADSactly.crypto', 2500 ]
                      }
                     loop={Infinity}
                     wrapper="h3"
