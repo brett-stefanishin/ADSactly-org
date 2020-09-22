@@ -108,6 +108,17 @@ function IndexNavbar() {
             </NavItem>
             <NavItem>
               <NavLink
+                data-placement="bottom"
+                href="https://t.me/ADSactlyCrypto"
+                target="_blank"
+                title="Chat with us on Telegram"
+              >
+                <i className="fa fa-telegram" />
+                <p className="d-lg-none">Telegram</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
                 href="https://adsactly.gitbooks.io/adsactly-white-paper-v1/content/"
                 target="_blank"
               >
